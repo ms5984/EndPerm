@@ -1,0 +1,11 @@
+name: EndPerm
+version: ${project.version}
+main: com.github.ms5984.survivelist.endperm.EndPerm
+api-version: 1.16
+authors: [ ItzShmulik, ms5984 ]
+description: Require a permission to enter an End Portal
+commands:
+  endperm:
+    permission: endperm.reload
+    description: Reload the command
+    usage: "Usage: /<command> [reload] - Reload the configuration"

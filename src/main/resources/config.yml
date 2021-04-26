@@ -1,0 +1,5 @@
+# Set the permission required to access the End via End portal
+end-perm: 'end.use'
+
+# Set the cooldown for the message trigger in ticks.
+cooldown: 50
